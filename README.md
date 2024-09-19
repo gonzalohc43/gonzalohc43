@@ -15,6 +15,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+
 ---
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
@@ -32,13 +34,14 @@
 <br>
 <br>
 <br>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<ul>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+<a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/gonzalo">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://github.com/gonzalohc43">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
-<li>
-    <a href="https://www.linkedin.com/in/gonzalo" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-www.linkedin.com/in/gonzalo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
-    </a>
-</li>
 
-</ul>
+
+</div>
