@@ -1,6 +1,5 @@
-![Geek Sticker](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
-    
-         BIENVENIDO AL GITHUB DE GONZALO
+# <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100"/> Bienvenido al GitHub de Gonzalo Palma
+       
 
 
 🎓 Titulado en técnico en administración de empresas y Full Stack Python Developer en formación (Talento Digital Bootcamp).  
@@ -16,13 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-
-
-
-
-
-
 
 
 ### Contacto
