@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100"/>Bienvenido al GitHub de Gonzalo Palma       
 
 
-🎓Técnico en Administración de Empresas y actualmente en formación como Full Stack Python Developer en el bootcamp de Talento Digital." 
+🎓Técnico en Administración de Empresas y actualmente en formación como Full Stack Python Developer en el bootcamp de Talento Digital.
 
 💻 Apasionado por el desarrollo web con experiencia en **Django**, **Python**, y administración de proyectos.
 
